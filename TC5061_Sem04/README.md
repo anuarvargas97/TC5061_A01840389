@@ -73,3 +73,6 @@ Abrir `http://127.0.0.1:5000`, elegir el experimento
 `bank-marketing-logistic-comparison`, seleccionar las cinco corridas y pulsar
 **Compare**. `average_precision` es la metrica principal porque la clase
 positiva representa aproximadamente 11.7 % de los ejemplos.
+
+El analisis de la evidencia registrada, la configuracion seleccionada y las
+limitaciones del ejercicio se encuentra en [`ANALISIS.md`](ANALISIS.md).
